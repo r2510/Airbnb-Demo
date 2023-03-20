@@ -1,0 +1,59 @@
+{
+  "first": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-airbnb-first-154719-authRole",
+      "UnauthRoleArn": "arn:aws:iam::464379969346:role/amplify-airbnb-first-154719-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::464379969346:role/amplify-airbnb-first-154719-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-airbnb-first-154719-deployment",
+      "UnauthRoleName": "amplify-airbnb-first-154719-unauthRole",
+      "StackName": "amplify-airbnb-first-154719",
+      "StackId": "arn:aws:cloudformation:us-east-1:464379969346:stack/amplify-airbnb-first-154719/3f523aa0-c188-11ed-998a-0efe7a68cf51",
+      "AmplifyAppId": "d2frg3wdn2ltce"
+    },
+    "categories": {
+      "auth": {
+        "airbnb6b4dd52b": {}
+      }
+    }
+  },
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-airbnb-dev-162523-authRole",
+      "UnauthRoleArn": "arn:aws:iam::464379969346:role/amplify-airbnb-dev-162523-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::464379969346:role/amplify-airbnb-dev-162523-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-airbnb-dev-162523-deployment",
+      "UnauthRoleName": "amplify-airbnb-dev-162523-unauthRole",
+      "StackName": "amplify-airbnb-dev-162523",
+      "StackId": "arn:aws:cloudformation:us-east-1:464379969346:stack/amplify-airbnb-dev-162523/91107dc0-c18d-11ed-b1fb-0a287536b81b",
+      "AmplifyAppId": "d1jnm1vvnqp8v9"
+    },
+    "categories": {
+      "auth": {
+        "airbnb6b4dd52b": {}
+      }
+    }
+  },
+  "devs": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-airbnb-devs-82034-authRole",
+      "UnauthRoleArn": "arn:aws:iam::464379969346:role/amplify-airbnb-devs-82034-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::464379969346:role/amplify-airbnb-devs-82034-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-airbnb-devs-82034-deployment",
+      "UnauthRoleName": "amplify-airbnb-devs-82034-unauthRole",
+      "StackName": "amplify-airbnb-devs-82034",
+      "StackId": "arn:aws:cloudformation:ap-south-1:464379969346:stack/amplify-airbnb-devs-82034/7e5c7ab0-c46e-11ed-9d4a-02aed22f44f6",
+      "AmplifyAppId": "d2aqdejvsvqm5"
+    },
+    "categories": {
+      "auth": {
+        "airbnb6b4dd52b": {}
+      },
+      "api": {
+        "airbnb": {}
+      }
+    }
+  }
+}
